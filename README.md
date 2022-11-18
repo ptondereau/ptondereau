@@ -9,6 +9,10 @@
   </a>
 </div>
 
+Currently working on:
+- [ext-php-rs](https://github.com/davidcole1340/ext-php-rs): Write PHP extension with Rust
+- [biscuit-php](https://github.com/ptondereau/biscuit-php): PHP extension for [Biscuit](https://biscuitsec.org)
+
 Creative software engineer, I mainly work with PHP, JavaScript since 2010 and recently Rust <3. 
 Dedicated team player who enjoys working with a group and helping to develop other’s potential proficiencies. Seasoned professional with the self-righteous purpose of going beyond what is expected. 
 
