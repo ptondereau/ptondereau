@@ -75,5 +75,5 @@ Dedicated team player who enjoys working with a group and helping to develop oth
     align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptondereau&theme=codeSTACKr&title_color=57a5fd&hide=css,html"
   >
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ptondereau&show_icons=true&theme=radical&count_private=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptondereau&layout=compact&theme=buefy" />
 </p>
