@@ -62,12 +62,3 @@ Creative software engineer, I mainly work with PHP, JavaScript since 2010 and re
     />
   </a>&nbsp;
 </div>
-
-## Activity
-<p align="center">
-    <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptondereau&theme=codeSTACKr&title_color=57a5fd&hide=css,html"
-  >
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptondereau&layout=compact&theme=buefy" />
-</p>
